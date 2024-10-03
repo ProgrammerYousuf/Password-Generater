@@ -35,8 +35,5 @@ A simple password generator built with React and Tailwind CSS.
 3. Click the "Generate Password" button to generate a new password.
 4. Click the "Copy" button to copy the generated password to your clipboard.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.  
 
 
