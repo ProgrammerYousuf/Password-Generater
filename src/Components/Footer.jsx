@@ -28,7 +28,7 @@ const Footer = () => {
             >
               <img
                 className="invert p-1 w-10"
-                src="Icons/github.svg"
+                src="../icons/github.svg"
                 alt="github logo"
               />
               <span className="font-bold px-2">GitHub</span>
@@ -42,7 +42,7 @@ const Footer = () => {
             >
               <img
                 className="p-1 w-10"
-                src="Icons/facebook.svg"
+                src="../icons/facebook.svg"
                 alt="facebook logo"
               />
               <span className="font-bold px-2">Facebook</span>
