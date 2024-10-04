@@ -33,7 +33,7 @@ A simple password generator built with React and Tailwind CSS.
 1. Open your browser and navigate to `http://localhost:3000`.
 2. Adjust the password length and character types using the sliders and checkboxes.
 3. Click the "Generate Password" button to generate a new password.
-4. Click the "Copy" button to copy the generated password to your clipboard.
+4. Click the "Copy" button to copy the generated password to your cliboard.
 
 
 
